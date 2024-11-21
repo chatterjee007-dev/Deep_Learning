@@ -35,7 +35,15 @@ Welcome to my advanced deep learning projects repository. This collection showca
 - **Data Preprocessing**: Normalizing pixel values and reshaping images were crucial for model training.
 - **Regularization**: Adding a dropout layer helped prevent overfitting and improved model generalization.
 
-## 5. **Fake News Detection Using Deep Learning**
+## 5. **CIFAR Image Classification**
+**Objective**: Implement a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset.  
+**Tools/Libraries Used**: TensorFlow, Keras, Matplotlib, Pandas, NumPy.  
+**Key Insights**: 
+- **Model Performance**: Achieved notable accuracy in classifying CIFAR-10 images, demonstrating the effectiveness of CNNs for image classification tasks.
+- **Data Augmentation**: Enhanced model generalization through techniques like random flips and rotations.
+- **Layer Customization**: Explored different layer configurations to optimize the model’s performance.
+
+## 6. **Fake News Detection Using Deep Learning**
 **Objective**: Predict whether news stories are likely to be fake using a deep learning model.  
 **Tools/Libraries Used**: Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras, NLTK, SpaCy.  
 **Key Insights**: 
@@ -43,7 +51,7 @@ Welcome to my advanced deep learning projects repository. This collection showca
 - **Data Preprocessing**: Proper cleaning and preprocessing of text data were crucial for model training.
 - **Early Stopping**: Implementing early stopping helped prevent overfitting and improved model generalization.
 
-## 6. **Image Classification with Deep Learning**
+## 7. **Image Classification with Deep Learning**
 **Objective**: Create a deep learning model to classify images of cats and dogs.  
 **Tools/Libraries Used**: TensorFlow, Keras, Matplotlib, Google Colab, Kaggle API.  
 **Key Insights**: 
@@ -51,7 +59,7 @@ Welcome to my advanced deep learning projects repository. This collection showca
 - **Data Preprocessing**: Normalizing the image data was crucial for model performance.
 - **Early Stopping**: Implementing early stopping could further improve model generalization and prevent overfitting.
 
-## 7. **Similar Word Finder with NLP**
+## 8. **Similar Word Finder with NLP**
 **Objective**: Utilize natural language processing techniques to find similar words based on their relationships in a text corpus.  
 **Tools/Libraries Used**: NumPy, Pandas, Seaborn, Matplotlib, re, NLTK, Gensim, Flask, pyngrok.  
 **Key Insights**: 
@@ -59,7 +67,7 @@ Welcome to my advanced deep learning projects repository. This collection showca
 - **Data Preprocessing**: Thorough cleaning and preprocessing of text data is crucial for model performance.
 - **Deployment**: Using Flask and pyngrok facilitates easy web deployment and access.
 
-## 8. **Movie Recommendation System with Deep Learning**
+## 9. **Movie Recommendation System with Deep Learning**
 **Objective**: Create a content-based recommendation system to provide personalized movie recommendations to users.  
 **Tools/Libraries Used**: NumPy, Pandas, ast, Pickle, Scikit-learn, Flask, pyngrok.  
 **Key Insights**: 
